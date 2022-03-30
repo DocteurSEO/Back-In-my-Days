@@ -19,10 +19,10 @@ Your idea, help beginners.
       
 
  
- **-Making a site in PHP, with a SQL database**    
-**-PHP generates HTML pages**    
+ **-Make an  PHP,  SQL website**    
+**-PHP generates all HTML pages**    
 **-only the adminstrator can add / modify / delete pages**     
-**-Everybody can consult the site**     
+**-Everybody can read without login**     
   
     
     Jquery/bootstrap Tolerated ! I remind you, it is 2011
